@@ -4,6 +4,21 @@
 
 This notebook accompanies Mark Harris's popular blog post [_An Even Easier Introductrion to CUDA_](https://developer.nvidia.com/blog/even-easier-introduction-cuda/) and can be run directly in [Google Colaboratory](https://colab.research.google.com/github/NVDLI/notebooks/blob/even-easier-cuda/even-easier-cuda/An_Even_Easier_Introduction_to_CUDA.ipynb).
 
+## Learning Objectives
+
+In this notebook you will learn the basics of writing massively parallel CUDA kernels to run on NVIDIA GPUs. By the time you complete it you will be able to:
+
+- Launch massively parallel CUDA Kernels on an NVIDIA GPU
+- Organize parallel thread execution for massive dataset sizes
+- Manage memory between the CPU and GPU
+- Profile your CUDA code to observe performance gains
+
+## Prerequisites
+
+This notebook does not require you to write novel code, but to best understand its details, you should already have familiarity with:
+
+- Writing, compiling and running C or C++ code
+
 ## Followup Materials
 
 If you enjoyed this notebook and want to learn more, the [NVIDIA DLI](https://nvidia.com/dli) offers several in depth CUDA Programming courses.
