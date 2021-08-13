@@ -2,7 +2,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NVDLI/notebooks/blob/master/building-a-brain/Building_a_Brain.ipynb)
 
-This notebook explores the biological and psychological inspirations to the world's first neural networks. It can be run directly in [Google Colaboratory](https://colab.research.google.com/github/NVDLI/notebooks/blob/master/building-a-brain/Building_a_Brain.ipynb).
+This notebook explores the biological and psychological inspirations to the world's first neural networks. It can be run directly in [Google Colaboratory](https://colab.research.google.com/github/NVDLI/notebooks/blob/master/building-a-brain/BuildingABrain.ipynb).
 
 ## Learning Objectives
 
