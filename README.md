@@ -1,6 +1,18 @@
 # NVIDIA DLI Notebooks
 
-This repository contains notebooks authored by the [NVIDIA DLI](https://nvidia.com/dli) for learning deep learning, accelerated data science, and high performance computing.
+This repository contains notebooks authored by the [NVIDIA DLI](https://nvidia.com/dli) for learning deep learning, data science, and accelerated computing.
+
+## Deep Learning Notebooks
+
+- **[_Building a Brain in 10 Minutes_](https://github.com/NVDLI/notebooks/tree/master/building-a-brain):** This notebook explores the biological and psychological inspirations to the world's first neural networks.
+
+## Data Science Notebooks
+
+- **[_Speed Up DataFrame Operations with cuDF_](https://github.com/NVDLI/notebooks/tree/master/cudf-speed-up):** This notebook demonstrates significant speed up by moving common DataFrame operations to the GPU with minimal changes to existing code.
+
+## Accelerated Computing Notebooks
+
+- **[_An Even Easier Introduction to CUDA_](https://github.com/NVDLI/notebooks/tree/master/even-easier-cuda):** This notebook accompanies Mark Harris's popular blog post [_An Even Easier Introduction to CUDA_](https://developer.nvidia.com/blog/even-easier-introduction-cuda/), teaching you the basics of CUDA programming.
 
 ## NVIDIA DLI Catalog
 
